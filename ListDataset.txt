@@ -1,0 +1,15 @@
+dataset\converted\1_1.jpg\tIIIT5K
+dataset\converted\3_1.jpg\tIIIT5K
+dataset\converted\3_2.jpg\tIIIT5K
+dataset\converted\3_3.jpg\tIIIT5K
+dataset\converted\3_4.jpg\tIIIT5K
+dataset\converted\4_1.jpg\tIIIT5K
+dataset\converted\4_3.jpg\tIIIT5K
+dataset\converted\4_4.jpg\tIIIT5K
+dataset\converted\4_5.jpg\tIIIT5K
+dataset\converted\4_6.jpg\tIIIT5K
+dataset\converted\6_1.jpg\tIIIT5K
+dataset\converted\6_2.jpg\tIIIT5K
+dataset\converted\6_3.jpg\tIIIT5K
+dataset\converted\6_4.jpg\tIIIT5K
+dataset\converted\6_5.jpg\tIIIT5K

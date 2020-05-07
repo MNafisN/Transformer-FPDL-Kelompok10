@@ -1,0 +1,5 @@
+dataset\converted\6_6.jpg\tIIIT5K
+dataset\converted\6_8.jpg\tIIIT5K
+dataset\converted\6_9.jpg\tIIIT5K
+dataset\converted\6_10.jpg\tIIIT5K
+dataset\converted\10_1.jpg\tIIIT5K
